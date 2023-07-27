@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live links
 
-GitHub [click here]()
+GitHub [click here](https://github.com/Vinoth30457/reviews.git)
 
-Live URL [click here]()
+Live URL [click here](https://playful-clafoutis-e4066e.netlify.app/)
 
 ## Available Scripts
 
